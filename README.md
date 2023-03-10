@@ -9,5 +9,9 @@
 
 
 | <a href="https://github.com/Niranjana123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Niranjana123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Niranjana123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niranjana123&show_icons=true&locale=en&layout=compact" alt="achyuthmohan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niranjana123&show_icons=true&locale=en" alt="achyuthmohan" /></p>
 | ------------- | ------------- |
 
