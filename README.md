@@ -7,4 +7,6 @@
 <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niranjana123-art)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123-art&layout=compact)](https://github.com/Niranjana123-art/github-readme-stats)
+
 
