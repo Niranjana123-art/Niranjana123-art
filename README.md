@@ -8,5 +8,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niranjana123-art)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123-art&layout=compact)](https://github.com/Niranjana123-art/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Niranjana123-art&mode=weekly)](https://git.io/streak-stats)
 
 
