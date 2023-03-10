@@ -1,6 +1,6 @@
 # Hey!!👋🏾
 ![image](https://github.com/Niranjana123-art/Niranjana/blob/main/Niranjana.png)
-- Sharing updates on <a href="https://www.linkedin.com/in/niranjana-b-nair-48b976203/">LinkedIn</a> 💼
+- Connect with me <a href="https://www.linkedin.com/in/niranjana-b-nair-48b976203/">LinkedIn</a> 💼
 
 
 
