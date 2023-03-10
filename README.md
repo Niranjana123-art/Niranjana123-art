@@ -5,5 +5,6 @@
 ![Niranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjana123-art&show_icons=true&theme=react)
 ##
 <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niranjana123-art)](https://git.io/streak-stats)
 
 
