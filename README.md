@@ -6,12 +6,7 @@
 ![Niranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjana123-art&show_icons=true&theme=react)
 ##
 <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 
-| <a href="https://github.com/Niranjana123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Niranjana123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Niranjana123/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niranjana123&show_icons=true&locale=en&layout=compact" alt="achyuthmohan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niranjana123&show_icons=true&locale=en" alt="achyuthmohan" /></p>
-| ------------- | ------------- |
 
