@@ -4,6 +4,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123-art&layout=compact)](https://github.com/Niranjana123-art/github-readme-stats)    &nbsp   ![Niranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjana123-art&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjana123-art&layout=compact)](https://github.com/Niranjana123-art/github-readme-stats)    &nbsp;   ![Niranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjana123-art&theme=transparent)
 
 
